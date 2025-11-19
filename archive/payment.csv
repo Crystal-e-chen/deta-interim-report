@@ -1,0 +1,6 @@
+Employee_ID,Name,Age,Gender,Country,City,Education,Job_Title,Department,Experience_Years,Salary_USD,Bonus_USD,Work_Hours_Per_Week,Remote_Work,Performance_Score,Joining_Year,Contract_Type,
+1,Employee_1,58,Female,India,NY,Bachelor,Manager,IT,0,330000,3650,41,Yes,1,2015,Part-Time,
+2,Employee_2,48,Female,UK,NY,High School,Designer,HR,4,5000000,14600,52,No,2,2022,Part-Time,
+3,Employee_3,34,Male,USA,London,High School,Manager,IT,1,10,15317,51,Yes,8,2010,Part-Time,
+4,Employee_4,27,Male,UK,Karachi,Bachelor,Developer,Marketing,19,20,19768,51,Yes,5,2004,Contract,
+5,Employee_5,40,Male,Canada,London,Master,Manager,IT,2,60,18193,59,Yes,7,2008,Full-Time,
